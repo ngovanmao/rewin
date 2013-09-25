@@ -1,4 +1,4 @@
-#summary Adaptive Transmit Power Control for Body Area Networks.
+#summary Adaptive Transmit Power Control Algorithm for Body Area Networks.
 #labels Phase-Implementation
 
 = Introduction =
