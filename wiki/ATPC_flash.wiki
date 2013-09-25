@@ -2,7 +2,7 @@
 
 = Introduction =
 
-It describes the applications created for testing the [ATPC] algorithm 
+It describes the applications created for testing the [ATPC] algorithm in TinyOS 2.x 
 
 
 = Description =
