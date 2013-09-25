@@ -1,4 +1,4 @@
-#ATCPC Adaptive Transmit Power Control for Body Area Networks.
+#summary Adaptive Transmit Power Control for Body Area Networks.
 
 = Introduction =
 
