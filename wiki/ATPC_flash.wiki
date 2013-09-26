@@ -7,7 +7,7 @@ It describes the applications created for testing the [ATPC] algorithm in TinyOS
 
 = Description =
 
-The coordinator transmits a beacon frame at max power and each node determines the actual TXpower based on the RSSI and transmits a packet back to the coordinator. The coordinator receiving the packet records the packet data in the flash and send an ACK at max power.
+The coordinator transmits a beacon frame at max power and each node determines the actual TXpower based on the RSSI and transmits a packet back to the coordinator. The coordinator receiving the packet records the packet data in the flash memory and sends an ACK at max power.
 
 Each packet contains these data:
  # nx_uint8_t nodeid;
