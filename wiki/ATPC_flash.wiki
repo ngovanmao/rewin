@@ -1,4 +1,4 @@
-#summary Applications to test the ATPC algorithm and save results in the flash memory
+#summary Applications to test the ATPC algorithm and save results in the flash memory in TinyOS
 
 = Introduction =
 
