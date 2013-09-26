@@ -2,7 +2,7 @@
 
 = Introduction =
 
-It describes the applications created for testing the [ATPC] algorithm in TinyOS 2.x 
+It describes the applications created for testing the [ATPC] algorithm in TinyOS 2.x It is designed and tested for Micaz boards.
 
 
 = Description =
@@ -27,4 +27,4 @@ ATPC_flash has 3 applications:
 
 Practical info: The coordinator must be flashed with NodeId=0. The nodes must be flashed with progressive NodeId starting from 1.
 
-Note: These applications are originally derived from the BlinkToRadio example in TinyOS. It works in Micaz boards.
+Note: These applications are originally derived from the BlinkToRadio example in TinyOS. 
