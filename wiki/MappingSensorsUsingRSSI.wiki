@@ -3,6 +3,7 @@ README for MappingSensorsUsingRSSI
 Author: Abdullah AYDEGER
 
 *Description*:
+http://www.aydeger.com/logo.png
 
 This set of applications is used to create a mesh networks and record the all RSSI values between the all nodes. By using these RSSI values we estimated the distance between each pair of nodes and mapped the nodes in the body. 
 
