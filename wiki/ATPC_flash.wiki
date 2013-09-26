@@ -27,4 +27,4 @@ ATPC_flash has 3 applications:
 
 Practical info: The coordinator must be flashed with NodeId=0. The nodes must be flashed with progressive NodeId starting from 1.
 
-Note: These applications are originally derived from the BlinkToRadio xample in TinyOS. 
+Note: These applications are originally derived from the BlinkToRadio example in TinyOS. 
