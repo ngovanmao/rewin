@@ -27,11 +27,17 @@ assigned in the beginning. It shows maximum probability of number of nodes in th
    
 MAPPING-SENSORS-USING-RSSI has 3 applications:
 
-1. Network-Trigger: The trigger will transmit first packet to let the other nodes transmit.  
+1. Network-Trigger: The trigger will transmit first packet to let the other nodes transmit. Working phases of trigger node is explained by figure in below.
 
-2. Network-Tx/Rx-Node: Each node installed with this project firstly will wait a packet from trigger. After getting first packet each node will adjust its timer and will send packet in its own order.  
+<img src=http://rewin.googlecode.com/svn/wiki/pics/Slayt3.PNG width=500 height=300>
 
-3. Network-Rx-Node: Each node has been installed this code will receive all RSSI_MSG packets and will output the received packets by printf.
+2. Network-Tx/Rx-Node: Each node installed with this project firstly will wait a packet from trigger. After getting first packet each node will adjust its timer and will send packet in its own order. Working phases of Tx/Rx node is explained by figure in below. 
+
+<img src=http://rewin.googlecode.com/svn/wiki/pics/Slayt2.PNG width=500 height=300>
+
+3. Network-Rx-Node: Each node has been installed this code will receive all RSSI_MSG packets and will output the received packets by printf. Working phases of Rx node is explained by figure in below.
+
+<img src=http://rewin.googlecode.com/svn/wiki/pics/Slayt4.PNG width=500 height=300>
 
 WARNING WHILE TESTING THIS PROJECT
 
