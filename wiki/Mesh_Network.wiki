@@ -1,11 +1,11 @@
-#Full Mesh Network.
+#summary : TinyOs Application to save RSSI in a mesh network
 
 = Full Mesh Network =
 
-This set of applications is used to create a mesh networks and record the all RSSI values between the all nodes. By using these RSSI values we estimated the distance between each pair of nodes and mapped the nodes in the body.
+This set of applications is used to create a mesh networks and record the RSSI values between all the nodes. By using these RSSI values we estimated the distance between each pair of nodes and mapped the nodes in the body.
 
 There are 2 applications were developed for this project: 
- - Trigger: it will start the communications. 
+
  - Node: it will receive all the transmission from the other nodes and
 
 \item the device ID of the transmitting device 
