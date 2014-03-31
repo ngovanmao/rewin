@@ -26,7 +26,7 @@ The seven on-body devices were placed on:
   * low centred back~(6)
   * high centred back~(7). 
 
-The on-body positions represent suitable locations for healthcare monitoring sensors e.g. motion sensor in~(1), blood pressure in~(2), $SpO_2$ in~(3), fall detector in~(4) and~(5), EMG in~(6) or~(7).
+The on-body positions represent suitable locations for healthcare monitoring sensors e.g. motion sensor in (1), blood pressure in (2), SpO_2 in (3), fall detector in (4) and~(5), EMG in (6) or (7).
 
 The off-body devices were placed on the tables located near the wall of a office building room (6mx4mx2.3m). 
 
