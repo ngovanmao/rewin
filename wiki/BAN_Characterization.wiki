@@ -3,8 +3,10 @@
 = BAN Characterization based on Mesh Network measurements =
 
 The wireless on-body channel experiences significant temporal variation due to body movements and the use of multi hops is necessary if the transmit output power is limited for energy efficiency and safety issue.
-In source I provided the RSSI values of the 10 sensors who forms a mesh network. The on-body channel measurements were carried out in time domain. The test setup consists of ten Micaz devices; seven devices are placed on the body and three devices around the body (called off-body in the remainder of the paper) . 
-The seven on-body devices broadcasts a frame every 8.5ms at max output power (0~dBm) in a round-robin manner. They form a full-mesh network. The other three devices around the body will only receive the frame sent by each on-body device and store each received data frame and the associated Received Signal Strength Indicator (RSSI) for subsequent analysis.
+In source I provided the RSSI values of the 10 sensors who forms a mesh network. The on-body channel measurements were carried out in time domain. 
+
+The test setup consists of ten Micaz devices; seven devices are placed on the body and three devices around the body (called off-body in the remainder of the paper) . 
+The seven on-body devices broadcasts *a frame every 8.5ms at max output power (0~dBm) in a round-robin manner. They form a full-mesh network.* The other three devices around the body will only receive the frame sent by each on-body device and store each received data frame and the associated Received Signal Strength Indicator (RSSI) for subsequent analysis.
 
 When the on-body device does not transmit, it goes in listen mode and records the sequential number and the Received Signal Strength Indicator (RSSI)  associated with the node.
 
