@@ -9,12 +9,12 @@ The seven on-body devices broadcasts a frame every 8.5ms at max output power (0~
 When the on-body device does not transmit, it goes in listen mode and records the sequential number and the Received Signal Strength Indicator (RSSI)  associated with the node.
 
 Each frame sent by each on-body device includes:
-\begin{itemize}
-\item the device ID of the transmitting device 
-\item the monotonic increasing sequence number associated with that transmitting device ID  
-\item the last sequence number received by the other on-body transmitting devices
-\item the last RSSI received from from each device id
-\end{itemize}
+
+  * the device ID of the transmitting device 
+  * the monotonic increasing sequence number associated with that transmitting device ID  
+  * the last sequence number received by the other on-body transmitting devices
+  * the last RSSI received from from each device id
+
 
 The experimental evaluation were done in the new Medical Body Area Networks band that it is recently released by the Federal Communications Commission~\cite{FCC} with a centre frequency of 2390~MHz. 
 The seven on-body devices were placed on: left ankle~(1), right arm~(2), left wrist~(3), waist~(4), right ankle~(5), low centred back~(6) and high centred back~(7). 
