@@ -41,4 +41,4 @@ The 7 on-body nodes in my applications both transmit and receives in round robin
 The total duration of this experiments is 56183x60ms= 56minutes.
 
 
-*DOWNLOAD THE ZIP FILE WITH THE RSSI VALUES FOR EACH NODE AT [http://code.google.com/p/rewin/source/browse/trunk/Results/10nodes_60ms.zip]. You can freely use them, but please acknowledge the source.* 
+*DOWNLOAD THE ZIP FILE WITH THE RSSI VALUES FOR EACH NODE IN MATLAB WORKSPACE FORMAT AT [http://code.google.com/p/rewin/source/browse/trunk/Results/10nodes_60ms.zip]. You can freely use them, but please acknowledge the source.* 
