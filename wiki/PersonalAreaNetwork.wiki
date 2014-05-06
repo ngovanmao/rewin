@@ -10,4 +10,4 @@ Two presentations are available on Personal Area Networks and Body Area Network.
 [https://code.google.com/p/rewin/source/browse/trunk/Presentation/PAN3.pdf PAN presentation]
 
 A video about Unity 3D game engine using the data coming from 2 accelerometers on the sensor networks are used
-[http://youtu.be/3BHhsKQ7aWM]
+[http://youtu.be/3BHhsKQ7aWM Video]
